@@ -1,18 +1,18 @@
 {
     "id": 57436521,
-    "name": "test1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "testing",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "name": "Line of Destination",
+    "author": "KendrickLamar",
+    "creators": ["KendrickLamar"],
+    "verifier": "KendrickLamar",
+    "verification": "",
+    "percentToQualify": 1,
+    "password": "Unknown.",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "test victor",
+            "link": "",
+            "percent": 0,
+            "hz": ?
         }
     ]
 }
